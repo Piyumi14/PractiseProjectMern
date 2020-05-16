@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2307a606-ead4-42f9-b8e0-74d7cc3d5e12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mern-exercise-tracker/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mern-exercise-tracker/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mern-exercise-tracker/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mern-exercise-tracker/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mern-exercise-tracker/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mern-exercise-tracker/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mern-exercise-tracker/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/mern-exercise-tracker/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mern-exercise-tracker/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/mern-exercise-tracker/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mern-exercise-tracker" />
+  </component>
+  <component name="ProjectId" id="1bsi1zEJ1thFQNnrzwQGfU5SnWE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2307a606-ead4-42f9-b8e0-74d7cc3d5e12" name="Default Changelist" comment="" />
+      <created>1589426990624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589426990624</updated>
+      <workItem from="1589426993929" duration="16007000" />
+      <workItem from="1589516685941" duration="24498000" />
+      <workItem from="1589605138905" duration="10780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Inspections" timestamp="1589520790958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1589520790958" />
+    <state x="96" y="131" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589429936382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="131" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1589429936382" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589452346663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1589452346663" />
+    <state x="356" y="22" key="#excercises.js" timestamp="1589440084103">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="356" y="22" key="#excercises.js/0.0.1280.680@0.0.1280.680" timestamp="1589440084103" />
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1589643360627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1589643360627" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1589439186273">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589439186273" />
+    <state x="326" y="56" width="629" height="568" key="find.popup" timestamp="1589615068787">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="326" y="56" width="629" height="568" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1589615068787" />
+  </component>
+</project>
